@@ -1,2 +1,2 @@
 # Quality-Assurance
-This Repositery is avout learning the basics of qa and trying to implement in 1st projects and share the experiences here
+A personal learning repository for Software Quality Assurance, including test cases, bug reports, API testing with Postman, and basic automation practice.
